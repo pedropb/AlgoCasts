@@ -1,4 +1,3 @@
 # AlgoCasts
 
-
-This repo contains my solutions to all coding challenges proposed on Stephen Grider's original repo AlgoCasts.
+Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
